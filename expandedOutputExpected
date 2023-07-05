@@ -1,0 +1,7 @@
+#A more complex AI program that can classify grayscale images of handwritten digits (0 to 9) 
+#as well as English alphabet letters (a to z and A to Z)
+#Using a convolutional neural network (CNN) with an extended dataset. 
+#Combining the MNIST dataset for digits and the EMNIST dataset for letters:
+
+Test Loss: 0.1853
+Test Accuracy: 97.93%
